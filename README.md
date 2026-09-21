@@ -18,9 +18,12 @@ Me motiva sumarme a un equipo de datos donde pueda aportar con orden, buenas pr�
 
 ## Lo que hago
 
-- **Datos:** construyo pipelines ETL, limpio y transformo datos, y trabajo con bases de datos SQL
-- **DevOps:** empaqueto aplicaciones en contenedores con Docker y automatizo tareas y despliegues básicos con CI/CD
-- **Desarrollo:** creo aplicaciones web full-stack con APIs y frontends
+- **Ingeniería de datos:** construyo pipelines ETL, limpio y transformo datos, y trabajo con bases de datos SQL
+- **Modelado y calidad de datos:** diseño esquemas, valido la información y documento cada paso del proceso
+- **Orquestación y automatización:** programo pipelines con Airflow y tareas recurrentes con Bash y cron
+- **DevOps:** empaqueto aplicaciones en contenedores con Docker y automatizo pruebas y despliegues con CI/CD
+- **Visualización:** creo dashboards para que los datos sean fáciles de entender
+- **Desarrollo:** creo aplicaciones y APIs que consumen y exponen datos
 
 ## Stack
 
@@ -55,7 +58,7 @@ Me motiva sumarme a un equipo de datos donde pueda aportar con orden, buenas pr�
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| [**ETL Pipeline**](https://github.com/HernanPeinetti/etl-pipeline) | Extrae datos de un archivo o API, los limpia y los carga en una base de datos PostgreSQL | `Python` `Pandas` `PostgreSQL` |
+| [**ETL Pipeline**](https://github.com/HernanPeinetti/etl-pipeline) | Extrae datos de un archivo o API, valida su calidad (nulos, duplicados y formatos), los limpia y los carga en un esquema de tablas diseñado y documentado en PostgreSQL | `Python` `Pandas` `SQL` `PostgreSQL` |
 | [**Airflow Data Orchestration**](https://github.com/HernanPeinetti/airflow-data-orchestration) | DAG de Airflow que consume una API pública cada día y guarda los datos en PostgreSQL, todo levantado con Docker Compose | `Airflow` `Python` `PostgreSQL` `Docker` |
 | [**Docker Starter**](https://github.com/HernanPeinetti/docker-starter) | Aplicación empaquetada en un contenedor Docker, con pruebas y despliegue automatizados mediante GitHub Actions | `Docker` `GitHub Actions` `Linux` |
 | [**SysOps Automation**](https://github.com/HernanPeinetti/sysops-automation) | Scripts en Bash para respaldos automáticos, rotación de logs y alertas de espacio en disco, programados con cron | `Bash` `Linux` `Cron` `Git` |
