@@ -2,7 +2,7 @@
 
 **Junior Data Engineer · DevOps · Full-Stack Developer**
 
-Me apasiona el mundo de los datos: transformar información dispersa en datos ordenados y útiles. Tengo base en desarrollo full-stack y trabajo con herramientas de ingeniería de datos y DevOps para construir soluciones simples, automatizadas y fáciles de mantener.
+Me apasiona el mundo de los datos: transformar información dispersa en datos ordenados y útiles. Tengo base en desarrollo full-stack y trabajo con herramientas de ingeniería de datos y DevOps para construir soluciones automatizadas, claras y fáciles de mantener.
 
 <a href="https://www.linkedin.com/in/TU-USUARIO/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:tu@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -12,7 +12,7 @@ Me apasiona el mundo de los datos: transformar información dispersa en datos or
 
 ## Lo que hago
 
-- **Datos:** construyo pipelines ETL sencillos, limpio y transformo datos, y trabajo con bases de datos SQL
+- **Datos:** construyo pipelines ETL, limpio y transformo datos, y trabajo con bases de datos SQL
 - **DevOps:** contenedorizo aplicaciones y automatizo tareas y despliegues básicos con CI/CD
 - **Desarrollo:** creo aplicaciones web full-stack con APIs y frontends
 
@@ -49,7 +49,7 @@ Me apasiona el mundo de los datos: transformar información dispersa en datos or
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| [**Mini ETL Pipeline**](https://github.com/HernanPeinetti/mini-etl-pipeline) | Extrae datos de un archivo o API, los limpia y los carga en una base de datos PostgreSQL | `Python` `Pandas` `PostgreSQL` |
+| [**ETL Pipeline**](https://github.com/HernanPeinetti/etl-pipeline) | Extrae datos de un archivo o API, los limpia y los carga en una base de datos PostgreSQL | `Python` `Pandas` `PostgreSQL` |
 | [**Docker Starter**](https://github.com/HernanPeinetti/docker-starter) | Aplicación contenedorizada con Docker y despliegue automatizado mediante GitHub Actions | `Docker` `GitHub Actions` `Linux` |
 | [**Panel de Métricas**](https://github.com/HernanPeinetti/panel-metricas) | Aplicación web full-stack que muestra datos en un dashboard con API propia | `React` `Node.js` `MySQL` |
 
