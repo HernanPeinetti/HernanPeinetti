@@ -50,7 +50,9 @@ Me apasiona el mundo de los datos: transformar información dispersa en datos or
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
 | [**ETL Pipeline**](https://github.com/HernanPeinetti/etl-pipeline) | Extrae datos de un archivo o API, los limpia y los carga en una base de datos PostgreSQL | `Python` `Pandas` `PostgreSQL` |
-| [**Docker Starter**](https://github.com/HernanPeinetti/docker-starter) | Aplicación contenedorizada con Docker y despliegue automatizado mediante GitHub Actions | `Docker` `GitHub Actions` `Linux` |
+| [**Airflow Data Orchestration**](https://github.com/HernanPeinetti/airflow-data-orchestration) | DAG de Airflow que consume una API pública cada día y guarda los datos en PostgreSQL, todo levantado con Docker Compose | `Airflow` `Python` `PostgreSQL` `Docker` |
+| [**Docker Starter**](https://github.com/HernanPeinetti/docker-starter) | Aplicación empaquetada en un contenedor Docker, con pruebas y despliegue automatizados mediante GitHub Actions | `Docker` `GitHub Actions` `Linux` |
+| [**SysOps Automation**](https://github.com/HernanPeinetti/sysops-automation) | Scripts en Bash para respaldos automáticos, rotación de logs y alertas de espacio en disco, programados con cron | `Bash` `Linux` `Cron` `Git` |
 | [**Panel de Métricas**](https://github.com/HernanPeinetti/panel-metricas) | Aplicación web full-stack que muestra datos en un dashboard con API propia | `React` `Node.js` `MySQL` |
 
 ## Cómo trabajo
