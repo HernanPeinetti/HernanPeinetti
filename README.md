@@ -62,4 +62,4 @@ Me apasiona el mundo de los datos: transformar información dispersa en datos or
 
 ---
 
-Busco mi próxima oportunidad en un equipo de datos o DevOps donde pueda aportar y crecer. ¡Escríbeme!
+Busco mi próxima oportunidad en un equipo de datos donde pueda aportar y crecer. ¡Escríbeme!
