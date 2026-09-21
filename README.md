@@ -13,7 +13,7 @@ Me apasiona el mundo de los datos: transformar información dispersa en datos or
 ## Lo que hago
 
 - **Datos:** construyo pipelines ETL, limpio y transformo datos, y trabajo con bases de datos SQL
-- **DevOps:** contenedorizo aplicaciones y automatizo tareas y despliegues básicos con CI/CD
+- **DevOps:** empaqueto aplicaciones en contenedores con Docker y automatizo tareas y despliegues básicos con CI/CD
 - **Desarrollo:** creo aplicaciones web full-stack con APIs y frontends
 
 ## Stack
