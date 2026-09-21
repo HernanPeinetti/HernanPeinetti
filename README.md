@@ -1,8 +1,8 @@
 # ¡Hola! Soy Hernán 👋
 
-**Data Engineer · DevOps · Full-Stack Developer**
+**Junior Data Engineer · DevOps · Full-Stack Developer**
 
-Me apasiona el mundo de los datos: convertir información dispersa en datos confiables y listos para tomar decisiones. Combino ingeniería de datos, DevOps y desarrollo full-stack para crear soluciones escalables, reproducibles y fáciles de mantener, desde la ingesta hasta producción.
+Me apasiona el mundo de los datos: transformar información dispersa en datos ordenados y útiles. Tengo base en desarrollo full-stack y trabajo con herramientas de ingeniería de datos y DevOps para construir soluciones simples, automatizadas y fáciles de mantener.
 
 <a href="https://www.linkedin.com/in/TU-USUARIO/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:tu@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -12,66 +12,29 @@ Me apasiona el mundo de los datos: convertir información dispersa en datos conf
 
 ## Lo que hago
 
-- **Data Engineering:** pipelines ETL/ELT, orquestación, modelado, data warehouses y calidad de datos
-- **DevOps:** contenedores, CI/CD, infraestructura como código, observabilidad y monitoreo
-- **Desarrollo full-stack:** APIs, backends y frontends modernos que consumen y exponen datos
+- **Datos:** construyo pipelines ETL sencillos, limpio y transformo datos, y trabajo con bases de datos SQL
+- **DevOps:** contenedorizo aplicaciones y automatizo tareas y despliegues básicos con CI/CD
+- **Desarrollo:** creo aplicaciones web full-stack con APIs y frontends
 
 ## Stack
 
-### Data Engineering
+### Datos
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="Pandas"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="NumPy"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="30" alt="Spark"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="30" alt="Airflow"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="30" alt="Kafka"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="Jupyter"/>
-</p>
-
-`dbt` · `Snowflake` · `BigQuery` · `Databricks` · `Great Expectations` · `Parquet` · `Delta Lake`
-
-### Bases de datos
-<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="Redis"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="30" alt="Elasticsearch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="30" alt="Airflow"/>
 </p>
 
 ### DevOps
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="30" alt="Kubernetes"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="Terraform"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="30" alt="Ansible"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="30" alt="Jenkins"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="30" alt="GitHub Actions"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="GitLab"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="Bash"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="Nginx"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git"/>
 </p>
-
-`Helm` · `ArgoCD` · `Packer` · `Vault` · `SonarQube` · `Trivy`
-
-### Cloud
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="AWS"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="Google Cloud"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="Azure"/>
-</p>
-
-`S3` · `EC2` · `Lambda` · `EKS` · `RDS` · `Glue` · `Redshift` · `GCS` · `Cloud Run`
-
-### Monitoreo y observabilidad
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="Grafana"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="30" alt="Prometheus"/>
-</p>
-
-`Loki` · `Alertmanager` · `Datadog` · `ELK Stack`
 
 ### Desarrollo
 <p>
@@ -79,21 +42,24 @@ Me apasiona el mundo de los datos: convertir información dispersa en datos conf
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3"/>
 </p>
 
-`Python` · `SQL` · `FastAPI` · `REST APIs` · `Pytest`
-
-## Proyectos destacados
+## Proyectos
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| [**DataFlow Pipeline**](https://github.com/HernanPeinetti/dataflow-pipeline) | Pipeline ETL que extrae datos de APIs y bases relacionales, los transforma y los carga en un data warehouse con ejecución diaria automatizada | `Python` `Airflow` `PostgreSQL` `Docker` |
-| [**InfraOps Toolkit**](https://github.com/HernanPeinetti/infraops-toolkit) | Infraestructura como código para aprovisionar entornos en la nube, con despliegue automatizado mediante CI/CD | `Terraform` `GitHub Actions` `Docker` `AWS` |
-| [**Metrics Dashboard**](https://github.com/HernanPeinetti/metrics-dashboard) | Aplicación full-stack que expone métricas de negocio en un dashboard interactivo, con API propia y monitoreo | `React` `Node.js` `MySQL` `Grafana` |
+| [**Mini ETL Pipeline**](https://github.com/HernanPeinetti/mini-etl-pipeline) | Extrae datos de un archivo o API, los limpia y los carga en una base de datos PostgreSQL | `Python` `Pandas` `PostgreSQL` |
+| [**Docker Starter**](https://github.com/HernanPeinetti/docker-starter) | Aplicación contenedorizada con Docker y despliegue automatizado mediante GitHub Actions | `Docker` `GitHub Actions` `Linux` |
+| [**Panel de Métricas**](https://github.com/HernanPeinetti/panel-metricas) | Aplicación web full-stack que muestra datos en un dashboard con API propia | `React` `Node.js` `MySQL` |
+
+## Cómo trabajo
+
+- Código limpio y bien documentado
+- Control de versiones con Git en cada proyecto
+- Automatizo lo repetitivo para reducir errores
+- Comunicación clara y ganas de aportar al equipo
 
 ---
 
-Abierto a colaborar en proyectos de datos, automatización e infraestructura. ¡Escríbeme!
+Busco mi próxima oportunidad en un equipo de datos o DevOps donde pueda aportar y crecer. ¡Escríbeme!
