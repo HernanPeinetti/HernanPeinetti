@@ -4,7 +4,9 @@
 
 Me apasiona el mundo de los datos: transformar información dispersa en datos ordenados y útiles que ayuden a tomar mejores decisiones. Disfruto entender de dónde viene cada dato, cómo se mueve entre sistemas y qué necesita un equipo para poder confiar en él.
 
-Mi punto de partida es el desarrollo full-stack, lo que me permite ver el panorama completo: desde la aplicación que genera la información hasta el dashboard que la muestra. Sobre esa base trabajo con herramientas de ingeniería de datos y DevOps, como Python, SQL, Airflow, Docker y GitHub Actions, para construir soluciones automatizadas, claras y fáciles de mantener.
+Trabajo con Python y SQL para extraer, limpiar y transformar datos, y con herramientas como Airflow para orquestar pipelines que se ejecutan de forma automática. Uso Docker, Linux y GitHub Actions para que cada solución sea reproducible, fácil de desplegar y fácil de mantener.
+
+Me interesa especialmente la calidad del dato: validar, documentar y versionar cada paso del proceso para que los resultados sean confiables. Mi experiencia previa como desarrollador me ayuda a escribir código ordenado y a colaborar con equipos técnicos y de negocio.
 
 Me motiva sumarme a un equipo de datos donde pueda aportar con orden, buenas prácticas y compromiso para resolver problemas reales.
 
