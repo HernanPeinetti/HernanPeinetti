@@ -1,6 +1,6 @@
 # ¡Hola! Soy Hernán 👋
 
-**Junior Data Engineer · DevOps · Full-Stack Developer**
+**Junior Data Engineer**
 
 Me apasiona el mundo de los datos: transformar información dispersa en datos ordenados y útiles que ayuden a tomar mejores decisiones. Disfruto entender de dónde viene cada dato, cómo se mueve entre sistemas y qué necesita un equipo para poder confiar en él.
 
@@ -19,11 +19,10 @@ Me motiva sumarme a un equipo de datos donde pueda aportar con orden, buenas pr�
 ## Lo que hago
 
 - **Ingeniería de datos:** construyo pipelines ETL, limpio y transformo datos, y trabajo con bases de datos SQL
-- **Modelado y calidad de datos:** diseño esquemas, valido la información y documento cada paso del proceso
+- **Modelado y calidad de datos:** trabajo con esquemas y consultas SQL, y valido la información antes de cargarla
 - **Orquestación y automatización:** programo pipelines con Airflow y tareas recurrentes con Bash y cron
-- **DevOps:** empaqueto aplicaciones en contenedores con Docker y automatizo pruebas y despliegues con CI/CD
-- **Visualización:** creo dashboards para que los datos sean fáciles de entender
-- **Desarrollo:** creo aplicaciones y APIs que consumen y exponen datos
+- **DevOps:** uso Docker y GitHub Actions para empaquetar y desplegar mis proyectos
+- **Visualización y desarrollo:** creo dashboards y APIs para consumir y mostrar datos
 
 ## Stack
 
