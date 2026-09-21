@@ -2,7 +2,11 @@
 
 **Junior Data Engineer · DevOps · Full-Stack Developer**
 
-Me apasiona el mundo de los datos: transformar información dispersa en datos ordenados y útiles. Tengo base en desarrollo full-stack y trabajo con herramientas de ingeniería de datos y DevOps para construir soluciones automatizadas, claras y fáciles de mantener.
+Me apasiona el mundo de los datos: transformar información dispersa en datos ordenados y útiles que ayuden a tomar mejores decisiones. Disfruto entender de dónde viene cada dato, cómo se mueve entre sistemas y qué necesita un equipo para poder confiar en él.
+
+Mi punto de partida es el desarrollo full-stack, lo que me permite ver el panorama completo: desde la aplicación que genera la información hasta el dashboard que la muestra. Sobre esa base trabajo con herramientas de ingeniería de datos y DevOps, como Python, SQL, Airflow, Docker y GitHub Actions, para construir soluciones automatizadas, claras y fáciles de mantener.
+
+Me motiva sumarme a un equipo de datos donde pueda aportar con orden, buenas prácticas y compromiso para resolver problemas reales.
 
 <a href="https://www.linkedin.com/in/TU-USUARIO/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:tu@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
