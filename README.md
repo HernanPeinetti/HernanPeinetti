@@ -11,7 +11,7 @@ Ingesta desde APIs y archivos, validación de calidad, modelado en capas y orque
 [![Email](https://img.shields.io/badge/Escribime-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU-EMAIL)
 [![CV](https://img.shields.io/badge/Ver_CV-2ea043?style=for-the-badge&logo=readdotcv&logoColor=white)](TU-LINK-AL-CV)
 
-📍 Argentina · 🟢 Disponible para trabajar · 🌎 Remoto o híbrido
+📍 Argentina · 🟢 Disponible para trabajar · 🌎 Remoto
 
 </div>
 
