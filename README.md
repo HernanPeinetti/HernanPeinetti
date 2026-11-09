@@ -11,7 +11,7 @@ Vengo del desarrollo web y me especialicé en datos. Busco mi primer rol en un e
 [![Email](https://img.shields.io/badge/Escribime-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU-EMAIL)
 [![CV](https://img.shields.io/badge/Ver_CV-2ea043?style=for-the-badge&logo=readdotcv&logoColor=white)](TU-LINK-AL-CV)
 
-📍 Argentina · 🟢 Disponible · 🌎 Remoto o híbrido · 🗣️ Español · Inglés TU-NIVEL
+📍 Argentina · 🟢 Disponible · 🌎 Remoto o híbrido · 🗣️ Español · Inglés Intermedio
 
 </div>
 
