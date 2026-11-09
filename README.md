@@ -16,10 +16,15 @@ Construyo pipelines de datos confiables: extraigo de APIs y archivos, valido y t
 
 > Pipeline diario que ingiere datos de una API pública, los valida, los modela en capas (raw → staging → marts) y los deja listos para un dashboard.
 
-```
-API pública ──► Airflow (extract) ──► PostgreSQL raw ──► dbt (staging → marts) ──► Dashboard
-                      │                                        │
-                      └──── tests de calidad de datos ─────────┘
+```mermaid
+flowchart LR
+    A[🌐 API pública] --> B[⚙️ Airflow<br/>extract]
+    B --> C[(🐘 PostgreSQL<br/>raw)]
+    C --> D[🔧 dbt<br/>staging]
+    D --> E[📦 dbt<br/>marts]
+    E --> F[📊 Dashboard]
+    Q{{✅ Tests de calidad}} -.-> C
+    Q -.-> E
 ```
 
 - **Orquestación:** DAG en Airflow con reintentos, backfill e idempotencia
