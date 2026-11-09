@@ -1,75 +1,76 @@
-# ¡Hola! Soy Hernán 👋
+# Hernán Peinetti · Data Engineer
 
-**Junior Data Engineer**
+Construyo pipelines de datos confiables: extraigo de APIs y archivos, valido y transformo con Python y SQL, y cargo en bases de datos listas para análisis. Todo orquestado con Airflow, empaquetado con Docker y testeado en CI.
 
-Me apasiona el mundo de los datos: transformar información dispersa en datos ordenados y útiles que ayuden a tomar mejores decisiones. Disfruto entender de dónde viene cada dato, cómo se mueve entre sistemas y qué necesita un equipo para poder confiar en él.
+📍 Argentina · 🎯 Buscando mi primer rol como Data Engineer
 
-Trabajo con Python y SQL para extraer, limpiar y transformar datos, y con herramientas como Airflow para orquestar pipelines que se ejecutan de forma automática. Uso Docker, Linux y GitHub Actions para que cada solución sea reproducible, fácil de desplegar y fácil de mantener.
-
-Me interesa especialmente la calidad del dato: validar, documentar y versionar cada paso del proceso para que los resultados sean confiables. Mi experiencia previa como desarrollador me ayuda a escribir código ordenado y a colaborar con equipos técnicos y de negocio.
-
-Me motiva sumarme a un equipo de datos donde pueda aportar con orden, buenas prácticas y compromiso para resolver problemas reales.
-
-<a href="https://www.linkedin.com/in/TU-USUARIO/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:tu@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://tu-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-USUARIO/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:TU-EMAIL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://TU-PORTFOLIO)
 
 ---
 
-## Lo que hago
+## ⭐ Proyecto destacado
 
-- **Ingeniería de datos:** construyo pipelines ETL, limpio y transformo datos, y trabajo con bases de datos SQL
-- **Modelado y calidad de datos:** trabajo con esquemas y consultas SQL, y valido la información antes de cargarla
-- **Orquestación y automatización:** programo pipelines con Airflow y tareas recurrentes con Bash y cron
-- **DevOps:** uso Docker y GitHub Actions para empaquetar y desplegar mis proyectos
-- **Visualización y desarrollo:** creo dashboards y APIs para consumir y mostrar datos
+### [Pipeline de datos end-to-end](https://github.com/HernanPeinetti/NOMBRE-DEL-REPO)
 
-## Stack
+> Pipeline diario que ingiere datos de una API pública, los valida, los modela en capas (raw → staging → marts) y los deja listos para un dashboard.
 
-### Datos
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="Pandas"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="30" alt="Airflow"/>
-</p>
+```
+API pública ──► Airflow (extract) ──► PostgreSQL raw ──► dbt (staging → marts) ──► Dashboard
+                      │                                        │
+                      └──── tests de calidad de datos ─────────┘
+```
 
-### DevOps
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="30" alt="GitHub Actions"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="Bash"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git"/>
-</p>
+- **Orquestación:** DAG en Airflow con reintentos, backfill e idempotencia
+- **Calidad:** tests de nulos, duplicados, rangos y relaciones antes de publicar
+- **Modelado:** esquema estrella con tablas de hechos y dimensiones
+- **Infra:** todo se levanta con un `docker compose up`; CI con GitHub Actions
 
-### Desarrollo
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3"/>
-</p>
-
-## Proyectos
-
-| Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| [**ETL Pipeline**](https://github.com/HernanPeinetti/etl-pipeline) | Extrae datos de un archivo o API, valida su calidad (nulos, duplicados y formatos), los limpia y los carga en un esquema de tablas diseñado y documentado en PostgreSQL | `Python` `Pandas` `SQL` `PostgreSQL` |
-| [**Airflow Data Orchestration**](https://github.com/HernanPeinetti/airflow-data-orchestration) | DAG de Airflow que consume una API pública cada día y guarda los datos en PostgreSQL, todo levantado con Docker Compose | `Airflow` `Python` `PostgreSQL` `Docker` |
-| [**Docker Starter**](https://github.com/HernanPeinetti/docker-starter) | Aplicación empaquetada en un contenedor Docker, con pruebas y despliegue automatizados mediante GitHub Actions | `Docker` `GitHub Actions` `Linux` |
-| [**SysOps Automation**](https://github.com/HernanPeinetti/sysops-automation) | Scripts en Bash para respaldos automáticos, rotación de logs y alertas de espacio en disco, programados con cron | `Bash` `Linux` `Cron` `Git` |
-| [**Panel de Métricas**](https://github.com/HernanPeinetti/panel-metricas) | Aplicación web full-stack que muestra datos en un dashboard con API propia | `React` `Node.js` `MySQL` |
-
-## Cómo trabajo
-
-- Código limpio y bien documentado
-- Control de versiones con Git en cada proyecto
-- Automatizo lo repetitivo para reducir errores
-- Comunicación clara y ganas de aportar al equipo
+`Python` `SQL` `Airflow` `dbt` `PostgreSQL` `Docker` `GitHub Actions`
 
 ---
 
-Busco mi próxima oportunidad en un equipo de datos donde pueda aportar y crecer. ¡Escríbeme!
+## 🛠️ Proyectos
+
+| Proyecto | Qué resuelve | Stack |
+|---|---|---|
+| [ETL Pipeline](https://github.com/HernanPeinetti/etl-pipeline) | Extrae de archivo/API, valida calidad (nulos, duplicados, formatos) y carga en un esquema documentado | Python · Pandas · PostgreSQL |
+| [Airflow Orchestration](https://github.com/HernanPeinetti/airflow-data-orchestration) | DAG que consume una API pública a diario y la persiste en PostgreSQL | Airflow · Python · Docker |
+| [Docker + CI Starter](https://github.com/HernanPeinetti/docker-starter) | App containerizada con tests y deploy automatizado | Docker · GitHub Actions |
+| [SysOps Automation](https://github.com/HernanPeinetti/sysops-automation) | Backups, rotación de logs y alertas de disco programados con cron | Bash · Linux · Cron |
+
+---
+
+## 🧰 Stack
+
+**Datos:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+
+**Infra y DevOps:**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+**También trabajé con:** JavaScript, Node.js, React, MySQL (experiencia previa como desarrollador)
+
+**Aprendiendo ahora:** PySpark · AWS/GCP · data warehouses en la nube
+
+---
+
+## 📐 Cómo trabajo
+
+- **Idempotencia primero:** un pipeline que se re-ejecuta no debería duplicar datos
+- **Validar antes de cargar:** los datos malos se detectan en el pipeline, no en el dashboard
+- **Reproducible:** cada proyecto se levanta con un comando y tiene instrucciones claras
+- **Documentado:** README con arquitectura, decisiones y cómo correrlo
+
+---
+
+💬 ¿Tenés un equipo de datos y buscás a alguien con ganas de aportar? [Escribime](mailto:TU-EMAIL).
